@@ -13,7 +13,6 @@ Thumbs.db
 .vscode/
 *.swp
 *.swo
-*~
 .project
 .settings/
 *.sublime-project
